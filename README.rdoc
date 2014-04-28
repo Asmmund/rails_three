@@ -1,0 +1,8 @@
+==  Template
+Rails 3.2.13 template app . sqlite files included for purposes of easiness of setting up this app
+
+== gems
+gem 'rails', '3.2.13'
+gem 'sqlite3'
+gem "slim-rails"
+and other standard stuff
